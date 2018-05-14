@@ -1,4 +1,7 @@
-# 『밑바닥부터 시작하는 딥러닝』 (원서 : ゼロから作る Deep Learning)
+## 『밑바닥부터 시작하는 딥러닝』 (원서 : ゼロから作る Deep Learning)
+---
+* IPython 을 추가
+---
 
 <img src="https://github.com/WegraLee/deep-learning-from-scratch/blob/master/cover_image.jpg" width="360">
 
